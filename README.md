@@ -1,11 +1,10 @@
-# Olá! Eu sou o Carlos Rocha 🖐️
+##Sou desenvolvedor Front-End!
+Estudo diariamente com o objetivo de ser um profissional de qualidade.
+Iniciei minha carreira na área tecnológica como suporte em Ti. 
+Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
-Graduado no Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas. 
-Tecnologias estudadas e que sigo aprimorando: 
-HTML5, CSS3, JavaScript, Node.js, React.js, MongoDB.
-
-Apaixonado por Tecnologia, estudo diariamente com o objetivo de ser um profissional de qualidade.
-
+Tecnologias que uso e sigo aprimorando:
+HTML5, CSS3, JavaScript, Node, React, MongoDB.
 
   ![Carlos Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosmsRocha&icons=true&theme=merko&hide=contribs,prs)
 
