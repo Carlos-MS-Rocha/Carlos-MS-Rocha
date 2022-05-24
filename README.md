@@ -2,7 +2,7 @@
 
 Graduado no Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas. 
 Tecnologias estudadas e que sigo aprimorando: 
-HTML5, CSS3, JavaScript, Node.js, React.js, Vue.js e Bootstrap.
+HTML5, CSS3, JavaScript, Node.js, React.js, MongoDB.
 
 Apaixonado por Tecnologia, estudo diariamente com o objetivo de ser um profissional de qualidade.
 
