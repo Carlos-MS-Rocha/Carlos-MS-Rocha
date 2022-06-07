@@ -1,4 +1,6 @@
-#Comecei a estudar programação, para seguir no desenvolvimento voltado a web. Ainda estou me descobrindo na área do desenvolvimento.
+## Front-End Jr. 
+
+Comecei a estudar programação, para seguir no desenvolvimento voltado a web. Ainda estou me descobrindo na área do desenvolvimento.
 
 Venho aprimorando meus conhecimentos e praticando bastante, com as linguagens que selecionei para se torna um desenvolvedor de qualidade. 
 
@@ -7,7 +9,7 @@ HTML5, CSS3, JavaScript, Node, React, MongoDB, MySql.
 
   ![Carlos Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosmsRocha&icons=true&theme=merko&hide=contribs,prs)
 
-## Tecnologias que uso diariamente!
+## Tecnologias que uso e sigo aprimorando:
 
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
