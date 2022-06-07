@@ -7,7 +7,7 @@ HTML5, CSS3, JavaScript, Node, React, MongoDB, MySql.
 
   ![Carlos Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosmsRocha&icons=true&theme=merko&hide=contribs,prs)
 
-## Tecnologias que eu uso no meu dia!
+## Tecnologias que uso diariamente!
 
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
