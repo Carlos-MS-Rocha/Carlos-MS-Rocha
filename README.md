@@ -1,4 +1,4 @@
-#Comecei a estudar linguagens de programação, para seguir no desenvolvimento voltado a web. Ainda estou me descobrindo na área do desenvolvimento.
+#Comecei a estudar programação, para seguir no desenvolvimento voltado a web. Ainda estou me descobrindo na área do desenvolvimento.
 
 Venho aprimorando meus conhecimentos e praticando bastante, com as linguagens que selecionei para se torna um desenvolvedor de qualidade. 
 
