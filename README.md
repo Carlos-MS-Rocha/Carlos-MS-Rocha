@@ -13,10 +13,10 @@ HTML5, CSS3, JavaScript, React.
 
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="#"/>
-  <img align="center" alt="css" src="#"/>
-  <img align="center" alt="js" src="#"/>
-  <img align="center" alt="react" src="#"/>
+  <img align="center"  src="#"/>
+  <img align="center"  src="#"/>
+  <img align="center"  src="#"/>
+  <img align="center"  src="#"/>
   
   
 </div><br/>
