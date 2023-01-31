@@ -18,7 +18,7 @@ HTML5 | CSS | JavaScript | ReactJs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" widht="40" height="40"/>
 </div><br/>
   
-##Redes Sociais.
+## Redes Sociais.
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/carlosmsrochaa/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" widht="40" height="40" /></a>
 </div>          
