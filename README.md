@@ -2,7 +2,7 @@
 
 Sou Desenvolvedor Web Front-End.
 
-Tenho desenvolvido aplicações e interfaces para a web utilizando Html, Css, JavaScript e ReactJs.
+Desenvolvo aplicações web, utilizando: Html, Css, JavaScript e ReactJs.
 
 
   ![Carlos Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosmsRocha&icons=true&theme=merko&hide=contribs,prs)
