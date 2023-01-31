@@ -1,9 +1,8 @@
 ## Front-End Jr. 
 
-Estudo diariamente com o objetivo de ser um profissional de qualidade.
+Bem vindo ao meu perfil! 
 
-Iniciei minha carreira na área tecnológica em Ti a 10 anos.
-Estou estudando desenvolvimento para mudança de área.
+Abaixo, está alguns projetos feitos.
 
 
   ![Carlos Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosmsRocha&icons=true&theme=merko&hide=contribs,prs)
